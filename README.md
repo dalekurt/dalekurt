@@ -2,9 +2,11 @@
 
 I’m a Sr. Site Reliability Engineer at Frame.io
 
-### What I’m working on
+### Current Project/Goals
 
 - [Kubernetes cluster on Raspberry Pi 4](https://github.com/dalekurt/kubernetes-the-fun-way)
+- Building an API service in Python
+- Studying to take the AWS Certified Security Specialty
 
 ### Get in touch
 
