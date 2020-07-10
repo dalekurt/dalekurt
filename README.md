@@ -10,6 +10,8 @@ I’m Dale-Kurt a DevOps Engineer based in New York.
 
 ![Photo](https://github.com/dalekurt/dalekurt/blob/master/assets/work-from-home-setup.JPG)
 
+Check out my gear on [kit.co/dalekurt](https://www.kit.co/dalekurt)
+
 ## Get in touch
 
 - On Twitter [@dalekurt](https://www.twitter.com/dalekurt)
