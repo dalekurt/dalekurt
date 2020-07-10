@@ -1,4 +1,4 @@
-## Hello!
+## Hello! 👋🏼
 
 I’m a Sr. Site Reliability Engineer at Frame.io
 
