@@ -8,7 +8,7 @@ I’m Dale-Kurt a DevOps Engineer based in New York.
 
 ## WFH Setup
 
-![Work From Home Setup Photo](https://github.com/dalekurt/dalekurt/assets/work-from-home-setup.JPG)
+![Photo](https://github.com/dalekurt/dalekurt/blob/master/assets/work-from-home-setup.JPG)
 
 ## Get in touch
 
