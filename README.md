@@ -1,6 +1,6 @@
 ## Hello! 👋🏼
 
-I’m a Sr. Site Reliability Engineer at Frame.io
+I'm Dale-Kurt, a Sr. Site Reliability Engineer @Frameio. I work around cloud infrastructure, automation, containers and more. 
 
 ### Current Project/Goals
 
