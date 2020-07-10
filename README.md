@@ -1,18 +1,12 @@
-# Hello!
+## Hello!
 
-I’m Dale-Kurt a DevOps Engineer based in New York.
+I’m a Sr. Site Reliability Engineer at Frame.io
 
-## What I’m working on
+### What I’m working on
 
 - [Kubernetes cluster on Raspberry Pi 4](https://github.com/dalekurt/kubernetes-the-fun-way)
 
-## WFH Setup
-
-![Photo](https://github.com/dalekurt/dalekurt/blob/master/assets/work-from-home-setup.JPG)
-
-Check out my gear on [kit.co/dalekurt](https://www.kit.co/dalekurt)
-
-## Get in touch
+### Get in touch
 
 - On Twitter [@dalekurt](https://www.twitter.com/dalekurt)
 - On Instagram [@dalekurt](https://www.instagram.com/dalekurt)
