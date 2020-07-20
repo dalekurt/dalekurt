@@ -1,6 +1,11 @@
-## Hello! 👋🏼
+## Hello! I'm Dale-Kurt 👋🏼
 
-I'm Dale-Kurt, a Sr. Site Reliability Engineer @Frameio. I work around cloud infrastructure, automation, containers and more. 
+I'm Dale-Kurt, a Sr. Site Reliability Engineer @Frameio. I'm an advocate for elevating people and community with cloud native technologies. Some technologies I enjoy working with include Kubernetes, Docker, Terraform and Amazon Web Services (AWS).
+
+- [ AWS Certified Solutions Architect - Associate (AWS00759011)](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-03-29&ci=AWS00759011)
+- [Certified Administrator (CKA-2000-005181-0100)](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/f1a8b5b5-c969-534f-a348-1de6496d0674-dale-kurt-murray-certified-kubernetes-administrator-cka-certificate.pdf)
+- [Docker Certified Administrator (12936288)](https://credentials.docker.com/abb3448e-0232-4e56-9d55-4d2d1297ff3c)
+
 
 ### Current Project/Goals
 
