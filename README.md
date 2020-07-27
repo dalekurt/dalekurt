@@ -11,6 +11,7 @@ I'm Dale-Kurt, a Sr. Site Reliability Engineer @Frameio. I'm an advocate for ele
 
 ### Current Project/Goals
 
+- Building a home lab with Intel NUC (NUC9VXQNX) 
 - [Kubernetes cluster on Raspberry Pi 4](https://github.com/dalekurt/kubernetes-the-fun-way)
 - Building an API service in Python
 - Studying to take the AWS Certified Security Specialty
