@@ -1,6 +1,6 @@
 ## Hello! I'm Dale-Kurt 👋🏼
 
-My name is Dale-Kurt, I am a **Senior Site Reliability Engineer** [Frame.io](https://www.frame.io) with more than 15 years of Cloud Infrastructure and Linux System Administration. 
+My name is Dale-Kurt, I am a **Senior Site Reliability Engineer** [Frame.io](https://www.frame.io) ([An Adobe company](https://news.adobe.com/news/news-details/2021/Adobe-Completes-Acquisition-of-Frame.io/default.aspx)) with more than 15 years of Cloud Infrastructure and Linux System Administration. 
 
 As an advocate for DevOps, I've been lucky enough to mentor and guide junior and experienced engineers in DevOps and cloud native technologies. During my career I've been able to work in different industries architecting, implementing performant scalablable cloud infrastructure solutions. 
 
