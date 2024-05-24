@@ -15,19 +15,20 @@ Some technologies I enjoy working with include **Kubernetes**, **Docker**, **Ter
 ---
 
 - 🔬 **I'm Currently Working on:**
-  -  Building a home lab with Intel NUC (NUC9VXQNX)
-  - K8s at Home using Flux v2
+  -  Building a home lab and cybersecurity range with Intel NUC (NUC9VXQNX)
+  - K8s at Home using Flux
   - [Kubernetes cluster on Raspberry Pi 4](https://github.com/dalekurt/kubernetes-the-fun-way)
 - 🌱 **I'm Currently Learning:**
   -  GoLang
   -  Python
-- **What I'm Getting Certifications on:**
+  -  Cybersecurity (focused on cloud and application security)
+- **Working on the following certifications:**
   - AWS Certified Solutions Architect - Professional Certification
   - AWS Certified Security Specialty
+  - CompTIA Security+
 
-### Get in touch
-Feel free to reach out to me at:
-- On Twitter [@dalekurt](https://www.twitter.com/dalekurt)
-- On Instagram [@dalekurt](https://www.instagram.com/dalekurt)
-- By email [hello@dalekurtmurray.com](mailto:hello@dalekurtmurray.com)
-- On [LinkedIn](https://www.linkedin.com/in/dalekurtmurray/)
+### Connect with me
+- Twitter [@dalekurt](https://www.twitter.com/dalekurt)
+- Instagram [@dalekurt](https://www.instagram.com/dalekurt)
+- Email [hello@dalekurtmurray.com](mailto:hello@dalekurtmurray.com)
+- [LinkedIn](https://www.linkedin.com/in/dalekurtmurray/)
