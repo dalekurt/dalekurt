@@ -6,20 +6,15 @@ My name is Dale-Kurt, I am a Site Reliability Engineer [Frame.io](https://www.fr
 
 As an advocate for DevOps, I've been lucky enough to mentor and guide junior and experienced engineers in DevOps and cloud native technologies. During my career I've been able to work in different industries architecting, implementing performant scalablable cloud infrastructure solutions. 
 
-Ask me about Kubernetes, cloud-native, DevOps and cybersecurity .
+
 
 - 🔬 **I'm Currently Working on:**
-  -  Building a home lab and cybersecurity range with Intel NUC (NUC9VXQNX)
+  -  Building a homelab
+  -  Building a cybersecurity range
   - K8s at Home using Flux amd ArgoCD
   - [Kubernetes cluster on Raspberry Pi 4](https://github.com/dalekurt/kubernetes-the-fun-way)
-- 🌱 **I'm Currently Learning:**
-  -  GoLang
-  -  Python
-  -  Cybersecurity
-- **Working on the following certifications:**
-  - AWS Certified Solutions Architect - Professional Certification
-  - AWS Certified Security Specialty
-  - CompTIA Security+
+- 🌱 I'm learning more about cybersecurity and diving into data engineering concepts
+- 💬 Ask me about Kubernetes, cloud-native, DevOps practices and cybersecurity.
 
 ### Connect with me
 - Twitter [@dalekurt](https://www.twitter.com/dalekurt)
