@@ -20,6 +20,6 @@ As an advocate for DevOps, I've been lucky enough to mentor and guide junior and
 - Twitter [@dalekurt](https://www.twitter.com/dalekurt)
 - Instagram [@dalekurt](https://www.instagram.com/dalekurt)
 - Email [hello@dalekurtmurray.com](mailto:hello@dalekurtmurray.com)
-- [LinkedIn](https://www.linkedin.com/in/dalekurtmurray/)
+- [LinkedIn](https://www.linkedin.com/in/dalekurt/)
 
 ⭐️ Check out my [stars](https://github.com/dalekurt?tab=stars) for interesting projects I follow on GitHub.
