@@ -13,6 +13,7 @@ As an advocate for DevOps, I've been lucky enough to mentor and guide junior and
   - Building a cybersecurity range
   - Kubernetes-as-a-Services (Packer, Terraform and K8s@Home project)
   - [Kubernetes cluster on Raspberry Pi 4](https://github.com/dalekurt/kubernetes-the-fun-way)
+  - [Local LLM](https://github.com/dalekurt/local-llm-stack)
 - 🌱 I'm learning more about cybersecurity and diving into data engineering concepts
 - 💬 Ask me about Kubernetes, cloud-native, DevOps practices and cybersecurity.
 
